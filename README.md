@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer & Web Enthusiast Skilled in HTML, CSS, JavaScript, React, Next.js, Tailwind, and Bootstrap.<br>
+Frontend Developer Skilled in HTML, CSS, JavaScript, React, Next.js, Tailwind, and Bootstrap.<br>
 
 
 ## 🌐 Socials:
